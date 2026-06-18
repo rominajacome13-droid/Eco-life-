@@ -64,7 +64,7 @@ El proyecto se basa en estándares y estudios como:
 * Estudios del mercado EdTech en América Latina
 * Reportes de innovación educativa
 
-👥 Autores
+Autores:
 Romina Jácome , Sara Torres, Nickolas Ordóñez , Mathias Ayala  
 
 Uso
