@@ -73,5 +73,5 @@ Este proyecto puede ser utilizado para:
 * Estudiantes de secundaria y universidad
 * Plataformas de aprendizaje digital
 
-Conclusión
+En Conclusión
 Eco Life representa una nueva forma de aprender ciencias, combinando tecnología e innovación para crear experiencias educativas más efectivas y atractivas.
